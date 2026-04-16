@@ -275,20 +275,6 @@ Rice-Leaf-Disease-Detection-CNN-Project/
 
 ---
 
-## 👤 Author
-
-**Minar Im**
-- GitHub: [@MinarIm](https://github.com/MinarIm)
-- Project: Digital Image Processing Course — Rice Leaf Disease Detection
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — feel free to use and modify for educational purposes.
-
----
-
 ## 🙏 Acknowledgements
 
 - Dataset by **[vbookshelf on Kaggle](https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases)**
