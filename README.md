@@ -299,6 +299,6 @@ This project is licensed under the MIT License — feel free to use and modify f
 
 <div align="center">
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
+
 
 </div>
